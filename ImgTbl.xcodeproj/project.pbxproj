@@ -7,6 +7,16 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BE604F031B811F9000FFBEAE /* images-10.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EF51B811F9000FFBEAE /* images-10.jpeg */; };
+		BE604F041B811F9000FFBEAE /* images-11.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EF61B811F9000FFBEAE /* images-11.jpeg */; };
+		BE604F051B811F9000FFBEAE /* images-12.png in Resources */ = {isa = PBXBuildFile; fileRef = BE604EF71B811F9000FFBEAE /* images-12.png */; };
+		BE604F061B811F9000FFBEAE /* images-13.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EF81B811F9000FFBEAE /* images-13.jpeg */; };
+		BE604F071B811F9000FFBEAE /* images-14.png in Resources */ = {isa = PBXBuildFile; fileRef = BE604EF91B811F9000FFBEAE /* images-14.png */; };
+		BE604F081B811F9000FFBEAE /* images-15.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EFA1B811F9000FFBEAE /* images-15.jpeg */; };
+		BE604F091B811F9000FFBEAE /* images-16.png in Resources */ = {isa = PBXBuildFile; fileRef = BE604EFB1B811F9000FFBEAE /* images-16.png */; };
+		BE604F0A1B811F9000FFBEAE /* images-17.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EFC1B811F9000FFBEAE /* images-17.jpeg */; };
+		BE604F0B1B811F9000FFBEAE /* images-18.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = BE604EFD1B811F9000FFBEAE /* images-18.jpeg */; };
+		BE604F0C1B811F9000FFBEAE /* images-19.png in Resources */ = {isa = PBXBuildFile; fileRef = BE604EFE1B811F9000FFBEAE /* images-19.png */; };
 		BEA0762E1B81131000409B59 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA0762D1B81131000409B59 /* main.m */; };
 		BEA076311B81131000409B59 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA076301B81131000409B59 /* AppDelegate.m */; };
 		BEA076341B81131000409B59 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BEA076331B81131000409B59 /* ViewController.m */; };
@@ -27,6 +37,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BE604EF51B811F9000FFBEAE /* images-10.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-10.jpeg"; sourceTree = "<group>"; };
+		BE604EF61B811F9000FFBEAE /* images-11.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-11.jpeg"; sourceTree = "<group>"; };
+		BE604EF71B811F9000FFBEAE /* images-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-12.png"; sourceTree = "<group>"; };
+		BE604EF81B811F9000FFBEAE /* images-13.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-13.jpeg"; sourceTree = "<group>"; };
+		BE604EF91B811F9000FFBEAE /* images-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-14.png"; sourceTree = "<group>"; };
+		BE604EFA1B811F9000FFBEAE /* images-15.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-15.jpeg"; sourceTree = "<group>"; };
+		BE604EFB1B811F9000FFBEAE /* images-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-16.png"; sourceTree = "<group>"; };
+		BE604EFC1B811F9000FFBEAE /* images-17.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-17.jpeg"; sourceTree = "<group>"; };
+		BE604EFD1B811F9000FFBEAE /* images-18.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-18.jpeg"; sourceTree = "<group>"; };
+		BE604EFE1B811F9000FFBEAE /* images-19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "images-19.png"; sourceTree = "<group>"; };
 		BEA076281B81131000409B59 /* ImgTbl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ImgTbl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BEA0762C1B81131000409B59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BEA0762D1B81131000409B59 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -60,9 +80,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		BE604EF41B811F9000FFBEAE /* img */ = {
+			isa = PBXGroup;
+			children = (
+				BE604EF51B811F9000FFBEAE /* images-10.jpeg */,
+				BE604EF61B811F9000FFBEAE /* images-11.jpeg */,
+				BE604EF71B811F9000FFBEAE /* images-12.png */,
+				BE604EF81B811F9000FFBEAE /* images-13.jpeg */,
+				BE604EF91B811F9000FFBEAE /* images-14.png */,
+				BE604EFA1B811F9000FFBEAE /* images-15.jpeg */,
+				BE604EFB1B811F9000FFBEAE /* images-16.png */,
+				BE604EFC1B811F9000FFBEAE /* images-17.jpeg */,
+				BE604EFD1B811F9000FFBEAE /* images-18.jpeg */,
+				BE604EFE1B811F9000FFBEAE /* images-19.png */,
+			);
+			name = img;
+			path = ImgTbl/img;
+			sourceTree = "<group>";
+		};
 		BEA0761F1B81131000409B59 = {
 			isa = PBXGroup;
 			children = (
+				BE604EF41B811F9000FFBEAE /* img */,
 				BEA0762A1B81131000409B59 /* ImgTbl */,
 				BEA076441B81131000409B59 /* ImgTblTests */,
 				BEA076291B81131000409B59 /* Products */,
@@ -199,8 +238,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE604F071B811F9000FFBEAE /* images-14.png in Resources */,
 				BEA076371B81131000409B59 /* Main.storyboard in Resources */,
+				BE604F091B811F9000FFBEAE /* images-16.png in Resources */,
+				BE604F041B811F9000FFBEAE /* images-11.jpeg in Resources */,
+				BE604F061B811F9000FFBEAE /* images-13.jpeg in Resources */,
+				BE604F081B811F9000FFBEAE /* images-15.jpeg in Resources */,
 				BEA0763C1B81131000409B59 /* LaunchScreen.xib in Resources */,
+				BE604F0A1B811F9000FFBEAE /* images-17.jpeg in Resources */,
+				BE604F031B811F9000FFBEAE /* images-10.jpeg in Resources */,
+				BE604F0C1B811F9000FFBEAE /* images-19.png in Resources */,
+				BE604F051B811F9000FFBEAE /* images-12.png in Resources */,
+				BE604F0B1B811F9000FFBEAE /* images-18.jpeg in Resources */,
 				BEA076391B81131000409B59 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -414,6 +463,7 @@
 				BEA0764D1B81131000409B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BEA0764E1B81131000409B59 /* Build configuration list for PBXNativeTarget "ImgTblTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +472,7 @@
 				BEA076501B81131000409B59 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

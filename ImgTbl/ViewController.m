@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+@property (nonatomic,assign) NSDate *date;
+
 @end
 
 @implementation ViewController
